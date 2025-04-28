@@ -1,5 +1,5 @@
 # 반려동물 보유세에 관한 유튜브 댓글 여론 분석
-
+[발표자료](https://github.com/Doonco/TopicModeling/blob/main/%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%EB%B3%B4%EC%9C%A0%EC%84%B8.pdf)
 ## 1. 주제 선정 배경
 
 반려동물 가구와 관련 산업의 증가로 반려동물 보유세 도입 논의가 필요해졌습니다. 
