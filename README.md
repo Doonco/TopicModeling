@@ -48,3 +48,5 @@
 ## 5. 사용 언어 및 분석 도구 
 - **언어** : R
 - **분석 도구 및 패키지** : 'tidyverse', 'tm', 'topicmodels', 'ggplot2', 'wordcloud2', 'KoNLP' 등
+
+![프로젝트 전체 결과](full.png)
