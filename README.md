@@ -1,7 +1,14 @@
-# 반려동물 보유세에 관한 유튜브 댓글 여론 분석
-진행 기간: 2024년 10월 ~ 2024년 11월 
+<!-- 반려동물 보유세에 관한 유튜브 댓글 여론 분석-->
 
-[PPT 발표자료](https://github.com/Doonco/TopicModeling/blob/main/%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%EB%B3%B4%EC%9C%A0%EC%84%B8.pdf)
+
+
+
+![프로젝트 전체 결과](full.png)
+[발표자료 원본 ppt](https://github.com/Doonco/TopicModeling/blob/main/%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%EB%B3%B4%EC%9C%A0%EC%84%B8.pdf)
+
+
+
+
 ## 1. 주제 선정 배경
 
 반려동물 가구와 관련 산업의 증가로 반려동물 보유세 도입 논의가 필요해졌습니다. 
@@ -48,5 +55,3 @@
 ## 5. 사용 언어 및 분석 도구 
 - **언어** : R
 - **분석 도구 및 패키지** : 'tidyverse', 'tm', 'topicmodels', 'ggplot2', 'wordcloud2', 'KoNLP' 등
-
-![프로젝트 전체 결과](full.png)
